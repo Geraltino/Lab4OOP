@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class Multiply {
 
     public static void main(String[] args){
-        add();
+        multiply();
 
     }
 
-    public static void add()
+    public static void multiply()
     {
         System.out.println("Please enter your first number :");
         Scanner inputs = new Scanner(System.in);
