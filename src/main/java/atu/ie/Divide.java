@@ -9,7 +9,7 @@ public class Divide {
 
     }
 
-    public static void add()
+    public static void divide()
     {
         System.out.println("Please enter your first number :");
         Scanner inputs = new Scanner(System.in);
