@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Divide {
 
     public static void main(String[] args){
-        add();
+        divide();
 
     }
 
