@@ -15,11 +15,11 @@ public class Multiply {
         Scanner inputs = new Scanner(System.in);
         int FirstNum = inputs.nextInt();
 
-            System.out.println("Please enter your Second Number :");
-            int SecondNum = inputs.nextInt();
+        System.out.println("Please enter your Second Number :");
+        int SecondNum = inputs.nextInt();
 
-            int total = FirstNum * SecondNum;
-            System.out.println("The Total for multiplication is " + total);
+        int total = FirstNum * SecondNum;
+        System.out.println("The Total for multiplication is " + total);
     }
 
     public static void delete()
